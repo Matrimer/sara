@@ -29,7 +29,7 @@ static const char col_gray3[]       = "#eeeeee";
 static const char col_cyan[]        = "#005577";
 
 /* Winter theme! */
-//static const char col_gray1[]       = "#DBDBDB";
+//static const char col_gray1[]       = "#DBDBDB"; /* kommentar */
 //static const char col_gray2[]       = "#383838";
 //static const char col_gray3[]       = "#000000";
 //static const char col_cyan[]        = "#0090C9";
